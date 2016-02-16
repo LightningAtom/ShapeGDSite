@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<HEAD>
+<link rel="shortcut icon" href="ic.png" type="image/png">
+<TITLE> Shape General Development </TITLE>
+<meta http-equiv="Content-Type" content="text/html", charset="utf-8" name="viewport" content="width=device-width, initial-scale=1"  maximum-scale=1, user-scalable=no">
+</HEAD>
+<link rel="stylesheet" type="text/css" href="style.css" /><!-- //подключение css -->
+<script async src="script.js"></script><!-- //подключение скриптов -->
+<BODY TEXT=#B204F1 class="content-background" ><!-- //тело -->
+<div class="fon">
+<h1>Заказы</h1><!-- //шапка страницы -->
+<TABLE width="100%" height="10" class="menu"> <!-- //меню с выпадающими списками -->
+<TR>
+<Td height="5%" width="15%"><!-- //главная -->
+	<ul class="dropdown">
+	<li class="dropdown-top">
+	<a class="dropdown-top" href="Основная.html">Главная</a>
+	<ul class="dropdown-inside"id="i">
+	<li><a href="Основная.html">Главная</a></li>
+	<li><a href="упс.html">Магазин</a></li>
+	</ul>
+	</li>
+	</ul>
+</Td> 
+
+<TD height="5%" width="15%"><!-- //Продукты -->
+<ul class="dropdown">
+<li class="dropdown-top"><a class="dropdown-top" href="упс.html"> Продукты</a>
+<ul class="dropdown-inside">
+  <li><a href="haze.html">The Haze</a></li>
+</ul>
+</li>
+</ul>
+</TD>
+
+<TD height="5%" width="15%"><!-- //частые вопросы -->
+	<ul class="dropdown">
+	<li class="dropdown-top"><a class="dropdown-top" href="Заказы.html">Заказы</a></li>
+	</ul>
+</TD> 
+
+<Td height="5%" width="15%"><!-- //главная -->
+	<ul class="dropdown">
+	<li class="dropdown-top">
+	<a class="dropdown-top" href="сотрудники.html">Сотрудники</a>
+	<ul class="dropdown-inside" id="i1">
+	<li><a href="ИльяКравец.html">Илья Кравец</a></li>
+	<li><a href="АлександрБабиков.html">Александр Бабиков</a></li>
+	</ul>
+	</li>
+	</ul>
+</Td> 
+<TD height="5%" width="15%"><!-- //авторизация -->
+	<ul class="dropdown">
+	<li class="dropdown-top"><a class="dropdown-top" href="Авторизация.html">Авторизация</a></li>
+	</ul>
+</TD>
+</TR>
+</TABLE>
+</div>
+<br>
+<div>
+<button>kjk</button>
+</div>
+<footer class="fon4">
+&#174;Shape General Development
+</footer>
+</body>
