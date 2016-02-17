@@ -47,7 +47,7 @@ titel:befor{content: url(content/ic.png)}
 
 .Links{/*линки к вк, твиту, лицекниги*/
 	position: fixed;
-	top:260px;
+	top:50%;
 	left:0px;
 }	
 .article{	
