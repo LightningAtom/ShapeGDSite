@@ -45,6 +45,11 @@ titel:befor{content: url(content/ic.png)}
 	color: #FFF;
 }
 
+.Links{/*линки к вк, твиту, лицекниги*/
+	position: fixed;
+	top:260px;
+	left:0px;
+}	
 .article{	
 	text-align: center;
 	width:65%;
@@ -195,7 +200,7 @@ input[type="submit"] {
 	left:420px;
 	font: bold 30px Calibri, sans-serif;
 }
-	 
+
 
  ::-webkit-scrollbar { 
     display: none;} 
