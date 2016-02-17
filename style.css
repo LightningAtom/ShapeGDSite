@@ -163,7 +163,7 @@ ul.dropdown .dropdown-inside a:hover {
 	box-shadow: inset 0 0 10px rgba(0,0,0,0.9);
 	/*left:1500px;*/
 	left: calc(100% - 220px);
-	background: #FFF url("body-mono.jpg");
+	background: url("content/body-mono.jpg");
 	top:-100px;
    }
   
@@ -172,7 +172,7 @@ ul.dropdown .dropdown-inside a:hover {
 	height: 20px; /* Минимальная высота */
 	background-color: #F8F7F7;
 	position:relative;
-	background: #FFF url("body-mono.jpg");
+	background: url("content/body-mono.jpg");
 	left: calc(hw - 20px);
 	top:-40px;
    }
@@ -185,13 +185,12 @@ input[type="search"] {
 	width: 170px; /* Ширина поля */
 	height: 20px;
 	vertical-align: top; /* Выравнивание по середине */
-	background: #FFF url("body-mono.jpg");
+	background: url("content/body-mono.jpg");
    }
 input[type="submit"] {
 	width: 20px; /* Ширина кнопки */
 	height: 20px; /* Высота кнопки */
 	border: none; /* Убираем рамку */
-	background:#FC00FF ; /* Параметры фона */
 }
    
 
